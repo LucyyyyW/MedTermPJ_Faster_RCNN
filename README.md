@@ -21,3 +21,4 @@ edit the data path with your own image path.
 ```Shell
 python visualization.py
 ```
+Model download link：https://pan.baidu.com/s/12RQNMcYD-Vcbb3AxwONjhA key: 057s 
