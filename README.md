@@ -4,7 +4,7 @@ Object Detection
 
 We implement Faster_RCNN on VOC2007 dataset on pytorch. We train the model on VOC2007train, validate on VOC2007val and finally test on VOC2007test.
 
-You can easily download VOC2007 via and put them into data/.
+You can easily download VOC2007 via and put them into /data/.
 
 1. train
 ```Shell
